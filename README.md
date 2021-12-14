@@ -1,7 +1,7 @@
 # StudentRoster_GUI
-A simple GUI software that maintains a student roster for tuition procedures.//
-The system uses an array to perform the roster.//
-Student is an abstract classes, and students with different statuses, including Resident, NonResident, TriState, and International, are extended from Student.//
+A simple GUI software that maintains a student roster for tuition procedures.\
+The system uses an array to perform the roster.\
+Student is an abstract classes, and students with different statuses, including Resident, NonResident, TriState, and International, are extended from Student.
 
 The software uses a single GUI to perform all the tasks.
 The GUI contains 4 top tabs that are Student Profile, Payment/Financial Aid, Print Roster, and About.
